@@ -1,4 +1,4 @@
-<div class="divider"></div>
+<div class="divider-two"></div>
 <div class="container px-4 py-5" id="icon-grid">
     <h2 class="pb-2 border-bottom">Our Primary Goals</h2>
 

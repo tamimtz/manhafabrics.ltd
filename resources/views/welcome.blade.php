@@ -4,11 +4,15 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        
+
         <title>
         
-            M-Tex
+            MANHA FABRICS LTD
         </title>
 
+        <link rel="icon" sizes="64x64" href="{{ url('/page_Images/ManhaFabricsLogo.png') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url('css/style.css') }}">
         <!-- Fonts -->
         
 
@@ -33,5 +37,7 @@
         @include('layouts.icons')
 
         @include('layouts.aboutUs')
+
+        @include('layouts.contactUs')
     </body>
 </html>
